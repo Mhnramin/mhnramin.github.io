@@ -35,21 +35,21 @@
                                 className: "shift-line",
                                 children: (0, i.jsx)("h2", {
                                     className: "text-anim-one",
-                                    children: "Let's talk about your project."
+                                    children: "Let's talk more seriously."
                                 })
                             }), (0, i.jsx)("div", {
                                 className: "shift-line",
                                 children: (0, i.jsx)(a.default, {
-                                    href: "mailto:hello@chetanverma.com",
+                                    href: "mailto:zenhocker@gmail.com",
                                     children: (0, i.jsx)("h1", {
                                         className: "text-anim-two",
-                                        children: "hello@chetanverma.com "
+                                        children: "zenhocker@gmail.com"
                                     })
                                 })
                             }), (0, i.jsxs)("nav", {
                                 children: [(0, i.jsx)("li", {
                                     children: (0, i.jsx)(a.default, {
-                                        href: "https://www.linkedin.com/in/chetanverma7/",
+                                        href: "https://www.linkedin.com/in/mhnramin/",
                                         children: (0, i.jsx)("a", {
                                             target: "_blank",
                                             children: "LinkedIn"
@@ -57,7 +57,7 @@
                                     })
                                 }), (0, i.jsx)("li", {
                                     children: (0, i.jsx)(a.default, {
-                                        href: "https://github.com/chetanverma16",
+                                        href: "https://github.com/mhnramin",
                                         children: (0, i.jsx)("a", {
                                             target: "_blank",
                                             children: "Github"
@@ -65,10 +65,10 @@
                                     })
                                 }), (0, i.jsx)("li", {
                                     children: (0, i.jsx)(a.default, {
-                                        href: "https://dribbble.com/chetanverma",
+                                        href: "https://medium.com/@mhnramin",
                                         children: (0, i.jsx)("a", {
                                             target: "_blank",
-                                            children: "Dribbble"
+                                            children: "Medium"
                                         })
                                     })
                                 }), (0, i.jsx)("li", {
@@ -722,9 +722,9 @@
                                 }), (0, i.jsxs)("div", {
                                     className: "navigation-content",
                                     children: [(0, i.jsx)("h1", {
-                                        children: "/Developer"
+                                        children: "/Data Scientist"
                                     }), (0, i.jsx)("h1", {
-                                        children: "/Designer"
+                                        children: "/Data Analysist"
                                     })]
                                 })]
                             }), (0, i.jsxs)("div", {
@@ -734,7 +734,7 @@
                                 }), (0, i.jsxs)("nav", {
                                     children: [(0, i.jsx)("li", {
                                         children: (0, i.jsx)(c.default, {
-                                            href: "https://www.linkedin.com/in/chetanverma7/",
+                                            href: "https://www.linkedin.com/in/mhnramin/",
                                             children: (0, i.jsx)("a", {
                                                 target: "_blank",
                                                 children: "LinkedIn"
@@ -742,7 +742,7 @@
                                         })
                                     }), (0, i.jsx)("li", {
                                         children: (0, i.jsx)(c.default, {
-                                            href: "https://github.com/chetanverma16",
+                                            href: "https://github.com/mhnramin",
                                             children: (0, i.jsx)("a", {
                                                 target: "_blank",
                                                 children: "Github"
@@ -750,10 +750,10 @@
                                         })
                                     }), (0, i.jsx)("li", {
                                         children: (0, i.jsx)(c.default, {
-                                            href: "https://www.behance.net/chetanverma",
+                                            href: "https://medium.com/@mhnramin",
                                             children: (0, i.jsx)("a", {
                                                 target: "_blank",
-                                                children: "Behance"
+                                                children: "Medium"
                                             })
                                         })
                                     }), (0, i.jsx)("li", {
@@ -926,24 +926,24 @@
                 return (0, i.jsxs)("div", {
                     children: [(0, i.jsxs)(m.default, {
                         children: [(0, i.jsx)("title", {
-                            children: "Chetan Verma"
+                            children: "Muhammad Nur Amin"
                         }), (0, i.jsx)("meta", {
                             name: "viewport",
                             content: "initial-scale=1.0, width=device-width"
                         }), (0, i.jsx)("meta", {
                             name: "og:title",
                             property: "og:title",
-                            content: "Chetan Verma"
+                            content: "Muhammad Nur Amin"
                         }), (0, i.jsx)("meta", {
                             name: "og:description",
                             property: "og:description",
-                            content: "I'm Chetan Verma, a full-stack web developer\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between."
+                            content: "I'm Muhammad Nur Amin, a Data Scientist\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between."
                         }), (0, i.jsx)("meta", {
                             property: "og:site_name",
-                            content: "Chetan Verma"
+                            content: "Muhammad Nur Amin"
                         }), (0, i.jsx)("meta", {
                             name: "description",
-                            content: "I'm Chetan Verma, a full-stack web developer\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between.\n"
+                            content: "I'm Muhammad Nur Amin, a Data Scientist\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between.\n"
                         })]
                     }), (0, i.jsx)(l, {}), (0, i.jsx)(u, {
                         data: t

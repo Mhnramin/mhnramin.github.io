@@ -35,21 +35,21 @@
                                 className: "shift-line",
                                 children: (0, i.jsx)("h2", {
                                     className: "text-anim-one",
-                                    children: "Let's talk about your project."
+                                    children: "Let's talk more seriously."
                                 })
                             }), (0, i.jsx)("div", {
                                 className: "shift-line",
                                 children: (0, i.jsx)(r.default, {
-                                    href: "mailto:hello@chetanverma.com",
+                                    href: "mailto:zenhocker@gmail.com",
                                     children: (0, i.jsx)("h1", {
                                         className: "text-anim-two",
-                                        children: "hello@chetanverma.com "
+                                        children: "zenhocker@gmail.com "
                                     })
                                 })
                             }), (0, i.jsxs)("nav", {
                                 children: [(0, i.jsx)("li", {
                                     children: (0, i.jsx)(r.default, {
-                                        href: "https://www.linkedin.com/in/chetanverma7/",
+                                        href: "https://www.linkedin.com/in/mhnramin/",
                                         children: (0, i.jsx)("a", {
                                             target: "_blank",
                                             children: "LinkedIn"
@@ -57,7 +57,7 @@
                                     })
                                 }), (0, i.jsx)("li", {
                                     children: (0, i.jsx)(r.default, {
-                                        href: "https://github.com/chetanverma16",
+                                        href: "https://github.com/mhnramin",
                                         children: (0, i.jsx)("a", {
                                             target: "_blank",
                                             children: "Github"
@@ -65,10 +65,10 @@
                                     })
                                 }), (0, i.jsx)("li", {
                                     children: (0, i.jsx)(r.default, {
-                                        href: "https://dribbble.com/chetanverma",
+                                        href: "https://medium.com/@mhnramin",
                                         children: (0, i.jsx)("a", {
                                             target: "_blank",
-                                            children: "Dribbble"
+                                            children: "Medium"
                                         })
                                     })
                                 }), (0, i.jsx)("li", {
@@ -281,17 +281,17 @@
                         }), (0, i.jsx)("meta", {
                             name: "og:title",
                             property: "og:title",
-                            content: "Chetan Verma"
+                            content: "Muhammad Nur Amin"
                         }), (0, i.jsx)("meta", {
                             name: "og:description",
                             property: "og:description",
-                            content: "I'm Chetan Verma, a full-stack web developer\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between."
+                            content: "I'm Muhammad Nur Amin, a Data Scientist\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between."
                         }), (0, i.jsx)("meta", {
                             property: "og:site_name",
-                            content: "Chetan Verma"
+                            content: "Muhammad Nur Amin"
                         }), (0, i.jsx)("meta", {
                             name: "description",
-                            content: "I'm Chetan Verma, a full-stack web developer\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between.\n"
+                            content: "I'm Muhammad Nur Amin, a Data Scientist\n& ui designer working in New Delhi, India.\nI create websites, brand identities,\npackaging, and everything in-between.\n"
                         })]
                     }), (0, i.jsx)("div", {
                         className: "about-container",
@@ -309,7 +309,7 @@
                                     className: "shift-line",
                                     children: (0, i.jsx)("div", {
                                         className: "title title-two",
-                                        children: "welcome stranger"
+                                        children: "welcome"
                                     })
                                 })]
                             }), (0, i.jsxs)("div", {
@@ -318,7 +318,7 @@
                                     className: "shift-line",
                                     children: (0, i.jsx)("h1", {
                                         className: "content-elem",
-                                        children: "I'm Chetan Verma, a full-stack web developer"
+                                        children: "I'm Muhammad Nur Amin, a Data Scientist"
                                     })
                                 }), (0, i.jsx)("div", {
                                     className: "shift-line",
