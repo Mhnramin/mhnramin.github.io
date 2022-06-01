@@ -809,7 +809,7 @@
                         }), (0, i.jsx)("div", {
                             className: "icon",
                             children: (0, i.jsx)(o.default, {
-                                src: "/link.svg",
+                                src: "link.svg",
                                 alt: "link",
                                 width: "64px",
                                 height: "64px"
