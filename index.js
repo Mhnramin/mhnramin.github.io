@@ -380,14 +380,14 @@
             var g = {
                     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                    path: "/image",
+                    /*path: "/image",*/
                     loader: "default"
                 } || l.imageConfigDefault,
                 v = g.deviceSizes,
                 x = g.imageSizes,
                 j = g.loader,
                 b = g.path,
-                w = (g.domains, [].concat(r(v), r(x)));
+                w = (g.domains, [].concat(r(v), r(x))); 
 
             function y(e) {
                 var t = e.src,
@@ -962,7 +962,7 @@
                 value: !0
             }), t.imageConfigDefault = t.VALID_LOADERS = void 0;
             t.VALID_LOADERS = ["default", "imgix", "cloudinary", "akamai", "custom"];
-            t.imageConfigDefault = {
+            /* t.imageConfigDefault = {
                 deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                 imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
                 path: "/image",
@@ -970,7 +970,7 @@
                 domains: [],
                 disableStaticImages: !1,
                 minimumCacheTTL: 60
-            }
+            } */
         },
         9008: function(e, t, n) {
             e.exports = n(639)
