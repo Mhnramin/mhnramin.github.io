@@ -380,7 +380,7 @@
             var g = {
                     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                    path: "",
+                    path: "/image",
                     loader: "default"
                 } || l.imageConfigDefault,
                 v = g.deviceSizes,
@@ -808,14 +808,14 @@
                             })]
                         }), (0, i.jsx)("div", {
                             className: "icon",
-                            children: (0, i.jsx)(o.default, {
-                                src: "link.svg",
+                            children: (0, i.jsx)(o.default, { 
+                                src: "",
                                 alt: "link",
                                 width: "64px",
-                                height: "64px"
-                            })
-                        })]
-                    })
+                                height: "64px" 
+                            }) 
+                        })] 
+                    }) 
                 })
             }
 
@@ -965,7 +965,7 @@
             t.imageConfigDefault = {
                 deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                 imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                path: "",
+                path: "/image",
                 loader: "default",
                 domains: [],
                 disableStaticImages: !1,
