@@ -1,1 +1,1 @@
-self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":["index-ecf26ad83583eb98cf6b.js"],"/_error":["_error-737a04e9a0da63c9d162.js"],"/about":["about-7a4c6962406e24ed94d4.js"],sortedPages:["/","/_app","/_error","/about"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
+self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":["index.js"],"/_error":["error.js"],"/about":["about.js"],sortedPages:["/","/_app","/_error","/about"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
