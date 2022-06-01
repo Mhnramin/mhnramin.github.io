@@ -952,7 +952,7 @@
                             }(f),
                             m = function(e) {
                                 var t = u.default(l.removePathTrailingSlash(i.addLocale(e, n)), ".json");
-                                return i.addBasePath("/_next/data/".concat(o.buildId).concat(t).concat(r ? "" : d))
+                                return i.addBasePath("/data/".concat(o.buildId).concat(t).concat(r ? "" : d))
                             },
                             y = c.isDynamicRoute(v),
                             g = y ? i.interpolateAs(f, h, p).result : "";

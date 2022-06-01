@@ -380,7 +380,7 @@
             var g = {
                     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                    path: "/_next/image",
+                    path: "/image",
                     loader: "default"
                 } || l.imageConfigDefault,
                 v = g.deviceSizes,
@@ -965,7 +965,7 @@
             t.imageConfigDefault = {
                 deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048, 3840],
                 imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
-                path: "/_next/image",
+                path: "/image",
                 loader: "default",
                 domains: [],
                 disableStaticImages: !1,
