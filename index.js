@@ -675,13 +675,13 @@
                                 className: "shift-line",
                                 children: [" ", (0, i.jsx)("h1", {
                                     className: "title",
-                                    children: "Chetan"
+                                    children: "Muhammad"
                                 })]
                             }), (0, i.jsxs)("div", {
                                 className: "shift-line",
                                 children: [" ", (0, i.jsx)("h1", {
                                     className: "title",
-                                    children: "Verma"
+                                    children: "Nur Amin"
                                 })]
                             })]
                         }), (0, i.jsxs)("div", {
@@ -714,9 +714,9 @@
                                 }), (0, i.jsx)("div", {
                                     className: "navigation-email",
                                     children: (0, i.jsx)(c.default, {
-                                        href: "mailto:hello@chetanverma.com",
+                                        href: "mailto:zenhocker@gmail.com",
                                         children: (0, i.jsx)("a", {
-                                            children: "hello@chetanverma.com"
+                                            children: "zehocker@gmail.com"
                                         })
                                     })
                                 }), (0, i.jsxs)("div", {
@@ -730,7 +730,7 @@
                             }), (0, i.jsxs)("div", {
                                 className: "content-wrapper",
                                 children: [(0, i.jsxs)("p", {
-                                    children: ["I\u2019m a software engineer specializing in building ", (0, i.jsx)("br", {}), "exceptional digital experiences."]
+                                    children: ["I\u2019m a data scientist specializing in analyzing data ", (0, i.jsx)("br", {}), "with exceptional visualization."]
                                 }), (0, i.jsxs)("nav", {
                                     children: [(0, i.jsx)("li", {
                                         children: (0, i.jsx)(c.default, {
